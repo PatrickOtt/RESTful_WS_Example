@@ -1,1 +1,1 @@
-<h1>Simple RESTful WebService Demo</h1>
+<h1>Simple Demonstration of RESTful WebService with JavaEE</h1>
